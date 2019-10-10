@@ -18,4 +18,5 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent (this, activity_lights.class);
         startActivity(intent);
     }
+
 }
