@@ -10,9 +10,7 @@
         android:layout_width="102dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="@string/lights"
-        android:onClick="goToLights"
-        />
+        android:text="@string/lights" />
 
     <Button
         android:id="@+id/button3"
