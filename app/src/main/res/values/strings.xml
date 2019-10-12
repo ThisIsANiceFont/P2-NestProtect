@@ -3,4 +3,16 @@
     <string name="lights">Lights</string>
     <string name="temperature">Temperature</string>
     <string name="settings">Settings</string>
+    <string name="light_on">Light ON</string>
+    <string name="lighting_control">Lighting Control</string>
+    <string name="desired_temperature">Desired Temperature:</string>
+    <string name="temperature_control">Temperature Control</string>
+    <string name="current_temperature">Current Temperature:</string>
+    <string name="_79">79°</string>
+    <string name="todo">TODO</string>
+    <string name="_74">74°</string>
+    <string name="airconditioning">Air Conditioning</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="log_out">Log Out</string>
 </resources>
